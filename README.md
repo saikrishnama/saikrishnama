@@ -21,6 +21,7 @@ I'm Saikrishna Mandava .
 
 ### Technologies that I work on:
 * AWS/Azure/GCP
+* Ansible 
 * Terraform
 * Jenkins
 * kubernetes
