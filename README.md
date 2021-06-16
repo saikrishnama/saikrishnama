@@ -14,4 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Saikrishna's github stats](https://github-readme-stats.vercel.app/api?username=saikrishnama&show_icons=true&theme=prussian&count_private=true)](https://github.com/Multi-Cloud-Platform-IAC?tab=repositories) [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnama&layout=compact&langs_count=8)](https://github.com/Multi-Cloud-Platform-IAC?tab=repositories)
+### Hello 👋
+
+I'm Saikrishna Mandava .
+
+
+### Technologies that I work on:
+* AWS/Azure/GCP
+* Terraform
+* Jenkins
+* kubernetes
+* Linux Administration 
+* Prometheus
+* Databricks Administration 
+* Python
+* Chef 
+* Consul 
+
+
+<p align=center>
+  <a href="https://github.com/saikrishnama/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=saikrishnama&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/saikrishnama/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnama&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
